@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.rmexamir.twa",
+      "sha256_cert_fingerprints": [
+        "81:13:6D:99:F6:18:17:50:F3:ED:2A:FE:18:5B:D7:27:08:5C:DF:5F:FE:E1:67:EF:62:C1:7F:58:C4:9D:B4:C3"
+      ]
+    }
+  }
+]
